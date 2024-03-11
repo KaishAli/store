@@ -1,4 +1,6 @@
 {
+  "name": "e-commerce-thunder-main",
+  "homepage": "https://KaishAli.github.io/store",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
